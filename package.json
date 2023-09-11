@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Michael Milton <michael.r.milton@gmail.com>",
+  "repository": {
+    "url": "https://github.com/multimeric/domain-ts"
+  },
   "license": "GPL-3.0",
   "devDependencies": {
     "typescript": "^5.2.2"
